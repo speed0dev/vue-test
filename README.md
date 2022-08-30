@@ -15,3 +15,6 @@ npm install
 
 npm run serve
 
+### install 시 정상실행이 안될경우
+
+[install 관련](https://cocobi.tistory.com/114)
