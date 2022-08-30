@@ -17,4 +17,9 @@ npm run serve
 
 ### install 시 정상실행이 안될경우
 
+> npm install --force
+
+> npm install --save --legacy-peer-deps
+
+
 [install 관련](https://cocobi.tistory.com/114)
